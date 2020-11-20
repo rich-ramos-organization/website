@@ -5,4 +5,4 @@ Added some more updates
 
 Now editing on update-readme branch
 
-Updated locally
+Updated locally, then remotely
